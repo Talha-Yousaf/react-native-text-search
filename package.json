@@ -18,12 +18,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YOUR_GITHUB_USERNAME/react-native-text-search.git"
+    "url": "git+https://github.com/Talha-Yousaf/react-native-text-search.git"
   },
   "bugs": {
-    "url": "https://github.com/YOUR_GITHUB_USERNAME/react-native-text-search/issues"
+    "url": "https://github.com/Talha-Yousaf/react-native-text-search/issues"
   },
-  "homepage": "https://github.com/YOUR_GITHUB_USERNAME/react-native-text-search#readme",
+  "homepage": "https://github.com/Talha-Yousaf/react-native-text-search#readme",
   "files": [
     "src/index.ts",
     "src/SearchableLongText.tsx",
